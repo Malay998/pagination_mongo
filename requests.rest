@@ -1,0 +1,10 @@
+
+# GET http://localhost:3000/users/?page=2&limit=3
+
+# GET http://localhost:3000/users/?search=Malay
+
+# GET http://localhost:3000/users/?page=2&limit=5&sortBy=age&sortOrder=-1
+
+# GET http://localhost:3000/users/?filterBy=age&filterValue=55
+
+# GET http://localhost:3000/users/?filterBy=firstname,email&filterValue=alice
